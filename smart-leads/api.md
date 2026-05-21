@@ -1,6 +1,6 @@
 # TradeFlow API Documentation
 
-Base URL: `http://localhost:5000/api/v1` (local) | Production: coming soon
+Base URL: `http://localhost:5000/api/v1` (local) | `https://tradeflow-tjpe.onrender.com/api/v1` (production)
 
 ## Authentication
 

@@ -2,10 +2,11 @@
 
 A scalable full-stack REST API with JWT authentication, role-based access control, and a React dashboard.
 
+
 ## Live Demo
-- Frontend: coming soon
-- Backend API: coming soon
-- Swagger Docs: coming soon
+- Frontend: https://trade-flow-kappa.vercel.app
+- Backend API: https://tradeflow-tjpe.onrender.com/api/v1
+- Swagger Docs: https://tradeflow-tjpe.onrender.com/api/v1/docs
 
 ## Test Accounts
 - Admin: `admin@test.com` / `password123`
